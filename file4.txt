@@ -1,1 +1,2 @@
 file4 record1
+file4 record2  dim0071
