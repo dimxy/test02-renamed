@@ -1,1 +1,2 @@
 rec 1
+record 2 by test-dim
